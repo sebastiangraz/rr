@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/umbriel/rr#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "directory-tree": "^1.2.0",
+    "escape-html": "^1.0.3",
+    "express": "^4.14.1",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "marked": "^0.3.6",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-beta11"
   }
 }
